@@ -1,0 +1,16 @@
+F:\Dotnet\csharpdatasctructure\bin\Debug\net5.0\csharpdatasctructure.exe
+F:\Dotnet\csharpdatasctructure\bin\Debug\net5.0\csharpdatasctructure.deps.json
+F:\Dotnet\csharpdatasctructure\bin\Debug\net5.0\csharpdatasctructure.runtimeconfig.json
+F:\Dotnet\csharpdatasctructure\bin\Debug\net5.0\csharpdatasctructure.runtimeconfig.dev.json
+F:\Dotnet\csharpdatasctructure\bin\Debug\net5.0\csharpdatasctructure.dll
+F:\Dotnet\csharpdatasctructure\bin\Debug\net5.0\ref\csharpdatasctructure.dll
+F:\Dotnet\csharpdatasctructure\bin\Debug\net5.0\csharpdatasctructure.pdb
+F:\Dotnet\csharpdatasctructure\obj\Debug\net5.0\csharpdatasctructure.csproj.AssemblyReference.cache
+F:\Dotnet\csharpdatasctructure\obj\Debug\net5.0\csharpdatasctructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\Dotnet\csharpdatasctructure\obj\Debug\net5.0\csharpdatasctructure.AssemblyInfoInputs.cache
+F:\Dotnet\csharpdatasctructure\obj\Debug\net5.0\csharpdatasctructure.AssemblyInfo.cs
+F:\Dotnet\csharpdatasctructure\obj\Debug\net5.0\csharpdatasctructure.csproj.CoreCompileInputs.cache
+F:\Dotnet\csharpdatasctructure\obj\Debug\net5.0\csharpdatasctructure.dll
+F:\Dotnet\csharpdatasctructure\obj\Debug\net5.0\ref\csharpdatasctructure.dll
+F:\Dotnet\csharpdatasctructure\obj\Debug\net5.0\csharpdatasctructure.pdb
+F:\Dotnet\csharpdatasctructure\obj\Debug\net5.0\csharpdatasctructure.genruntimeconfig.cache

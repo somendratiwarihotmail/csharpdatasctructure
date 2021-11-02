@@ -6,7 +6,9 @@ namespace csharpdatasctructure
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Start: Execution");            
+            RemoveDuplicateCharactersFromString.Runner();         
+            Console.WriteLine("End: Execution");
         }
     }
 }
